@@ -5,8 +5,6 @@ export const skills = {
         "JavaScript",
         "NodeJS",
         "ReactJS",
-        "React Native",
-        "Redux",
         "C++",
         "C",
         "Python",
@@ -14,7 +12,6 @@ export const skills = {
         "CSS",
         "Git",
         "GitHub",
-        "MongoDB",
     ],
     industryKnowledge: [
         "Software",
