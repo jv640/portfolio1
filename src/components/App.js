@@ -49,7 +49,10 @@ export class App extends Component {
             about={this.state.about}
             skills={this.state.skills}
             projects={this.state.projects}
+            
         />
+        
+
       </div>
     ); 
   }
