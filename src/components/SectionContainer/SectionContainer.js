@@ -27,6 +27,12 @@ export const SectionContainer = ({
                     }[selectedSection]
                 }
             </div>
+            <a href="https://www.github.com/jv640" style={{paddingRight:'1 rem'}}>
+                <img src="./../../../public/github.png" alt = "Github Link" /></a>
+               
+            
+            <a href="https://www.linkedin.com/in/jatin-verma-509170159/" style={{paddingRight:'1 rem'}}>
+            <img src="./../../../public/linkedin.png" alt = "LinkedIn Link" /></a>
         </div>
     )
 }
